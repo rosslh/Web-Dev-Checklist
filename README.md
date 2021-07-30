@@ -1,24 +1,25 @@
 # Web dev checklist
 
 ## Misc
-- [ ] https://web.dev/measure/
+- [ ] http://gachecker.com/ (check Google Analytics)
 - [ ] https://validator.w3.org/ (validate HTML)
-- [ ] http://www.gachecker.com/ (check Google Analytics)
+- [ ] https://web.dev/measure/
 
 ## SEO / Social Media
-- [ ] https://www.heymeta.com/
 - [ ] https://metatags.io/
 - [ ] https://realfavicongenerator.net/favicon_checker
+- [ ] https://www.heymeta.com/
 
 ## A11Y
-- [ ] https://wave.webaim.org/
 - [ ] https://achecker.ca/checker/index.php
+- [ ] https://wave.webaim.org/
 
 ## Performance
-- [ ] https://tools.pingdom.com/
 - [ ] https://developers.google.com/speed/pagespeed/insights/
-- [ ] https://webhint.io
-- [ ] http://www.webpagetest.org
 - [ ] https://gtmetrix.com/
-- [ ] https://yellowlab.tools
+- [ ] https://testmysite.io/ (test from multiple locations)
+- [ ] https://tools.pingdom.com/
+- [ ] https://webhint.io
+- [ ] https://webpagetest.org
 - [ ] https://webspeedtest.cloudinary.com/ (image optimization)
+- [ ] https://yellowlab.tools
