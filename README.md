@@ -11,7 +11,7 @@
 - [ ] https://www.heymeta.com/
 
 ## A11Y
-- [ ] https://achecker.ca/checker/index.php
+- [ ] https://achecker.achecks.ca/checker/index.php
 - [ ] https://wave.webaim.org/
 
 ## Performance
